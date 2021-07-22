@@ -1,20 +1,24 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Welcome TO Jacky's Portal
+subtitle: The ONLY place for your interior designer needs!
+image: img/modernist-decor-inspiration-01.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why Jacky's Portal?
+  text: "Our amazing team draws inspiration from all dimensions on every dimension
+    to create, collaborate and customise to materialise and realise designs that
+    are out of this world! "
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: A complete customised, personalised and humanised experience tailored only
+    for you.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/213-2132300_interior-design-interior-designer-tools-and-equipment.png
+    text: We leverage the latest cutting edge technology using Augmented Reality,
+      Artificial Intelligence and Machine Learning to quickly draft and show you
+      in real time tailored specifically for you!
+  - image: img/fbe64bc771e6164c53676583d5091b8e.jpg
+    text: The result? Very fast turn around time and a very happy customer!
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Fun, Honesty, Loyalty are at the heart of everything we do!
 ---
-
